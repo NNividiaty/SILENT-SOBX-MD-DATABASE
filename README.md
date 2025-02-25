@@ -12,4 +12,4 @@
 - PREMIUM USER DATABASE
 ---------
 
-© Copy Write 2025 / ⚠️ alert gp.3.0
+`© Copy Write 2025 / ⚠️ Alert GPL.3.0`
