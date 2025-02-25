@@ -1,36 +1,36 @@
 {
 
-"BOT_NAME": "UMAR MD",
-"VERSION": "2.0.0",
-"CREATED BY": "UM4R",
+"BOT_NAME": "SILENT-SOBX-MD",
+"VERSION": "3.0.0",
+"CREATED BY": "SILENTLOVER432",
   
 "replyMsg": {
   
-  "giveme": "*Type something, what do you think, who do you think I look like?*",
+  "giveme": "*_Type something, what do you think, who do you think I look like?_*",
 
-  "giveut": "*Give a link or a text 😒*",
+  "giveut": "*_DEAR GIVE A LINK OR A TEXT⚡_*",
 
-  "not_fo": "*❌ I Couldn't find anything :(*",
+  "not_fo": "*_❌ SORRY I COULDN'T FIND ANYTHING..🚀_*",
 
-  "url": "*Give me a link 😐*",
+  "url": "*_DEAR GIVE ME A LINK...🚀_*",
   
-  "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
+  "valid_url": "*_This Url is invalid ❌ Please give me valid Url ❗_*",
 
-  "size_big": "*File size is too big ❌*",
+  "size_big": "*_File size is too big ❌_*",
 
-  "own_cmd": "*This is Owner Commad ‼*",
+  "own_cmd": "*_DEAR THIS IS OWNER COMMAD..🚀_*",
 
-  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/923165123719?text=GET_PREMIUIM_CONNECTION👾",
+  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/923096287432?text=GET_PREMIUIM_CONNECTION👾",
 
-  "ald_set": "*Already set* 🙂✅",
+  "ald_set": "*_ALREADY SET_* 🙂✅",
 
-  "only_gp": "This is group command ❗",
+  "only_gp": "*_THIS IS GROUP COMMAND..🚀_*",
 
-  "inb_cmd": "This is inbox command ❗",
+  "inb_cmd": "*_THIS IS INBOX COMMAND...🚀_*",
 
-  "give_adm": "*UD MD Say's Gandu Give admin first 😹💪🏻*",
+  "give_adm": "*_DEAR ADMIN IM NOT PROMTE HERE PLEASE GIVE ME ADDITION TO USE THIS CMD..🚀_*",
 
-  "you_adm": "Ghasti You`re Must Be Admin First 😒",
+  "you_adm": "*_DEAR YOU ARE NOT AN ADMIN IN THIS GROUP...🚀_*",
 
   "need_jid": "Please give me jid ❓",
 
@@ -44,9 +44,9 @@
 
   "ald_reapprove_alljid": "All Jid approve reject ✔",
 
-  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact UD MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact SILENT-SOBX-MD Owner Remove your Ban_* 👨‍🔧\n",
 
-  "erro": "Error" 
+  "erro": "ERROR..🚀" 
 }
 
 }
